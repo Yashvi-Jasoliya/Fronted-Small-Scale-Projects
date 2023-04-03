@@ -1,4 +1,4 @@
-## Fronted-Small-Scale-Projects
+##  Fronted-Small-Scale-Projects
 
 1. Calculator
 
