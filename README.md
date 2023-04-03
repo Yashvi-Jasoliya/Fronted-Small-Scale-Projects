@@ -1,6 +1,6 @@
 ##  Fronted-Small-Scale-Projects
 
-<h2> 1. Calculator </h2><hr>
+<h2> 1. Calculator </h2>
 
 ##  🔗 Click below to view this website
 
