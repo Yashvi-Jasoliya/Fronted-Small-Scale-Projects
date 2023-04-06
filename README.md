@@ -1,5 +1,21 @@
-# Fronted-Small-Scale-Projects
-https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
+##  Fronted-Small-Scale-Projects
+
+<h2> 1. Calculator </h2>
+
+<h3> 🔗 Click below to view this website </h3>
+
+```bash
+ https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
+```
 
 
+<h2> 1. Clock Toggle Mode </h2>
+
+<h3> 🔗 Click below to view this website </h3>
+
+```bash
 https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Clk-Toggle-Mode/
+```
+
+
+
