@@ -8,8 +8,8 @@
  https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
 ```
 
-
-<h2> 1. Clock Toggle Mode </h2>
+<br>
+<h2> 2. Clock Toggle Mode </h2>
 
 <h3> 🔗 Click below to view this website </h3>
 
