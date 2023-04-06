@@ -5,7 +5,9 @@
 <h3> 🔗 Click below to view this website </h3>
 
 ```bash
- https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
+ https://yashvi-jasoliya.github.io/
+ Fronted-Small-Scale-Projects/
+ Calc/
 ```
 
 <br>
@@ -14,7 +16,9 @@
 <h3> 🔗 Click below to view this website </h3>
 
 ```bash
-https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Clk-Toggle-Mode/
+https://yashvi-jasoliya.github.io/
+Fronted-Small-Scale-Projects/
+Clk-Toggle-Mode/
 ```
 
 
