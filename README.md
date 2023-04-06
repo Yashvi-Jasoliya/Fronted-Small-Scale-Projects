@@ -5,7 +5,7 @@
 <h3> 🔗 Click below to view this website </h3>
 
 ```bash
-https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/
+ https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/
 ```
 
 
