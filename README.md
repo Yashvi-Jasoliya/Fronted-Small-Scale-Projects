@@ -6,8 +6,7 @@
 
 ```bash
  https://yashvi-jasoliya.github.io/
- Fronted-Small-Scale-Projects/
- Calc/
+ Fronted-Small-Scale-Projects/Calc/
 ```
 
 <br>
