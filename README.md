@@ -5,7 +5,7 @@
 <h3> 🔗 Run in browser and view this project </h3>
 
 ```bash
- https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
+https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
 ```
 
 <br>
