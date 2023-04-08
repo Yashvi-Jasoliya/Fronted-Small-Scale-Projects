@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta chaeset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie-edge">
+    <title>Digital clock using JS</title>
+    <link href="style3.css" rel="stylesheet">
+    <!-- dout text type... -->
+    <!-- <link href="utils.css" rel="stylesheet" type="text/css" /> -->
+</head>
+
+<body>
+
+    
+    <div id="time">
+
+        <div class="clk" style="--clr:#0095ff">
+            <div class="dot sec"></div>
+            <svg>
+                <circle cx="120" cy="120" r="120" id="se"></circle>
+            </svg>
+        </div>
+
+        <div class="clk" style="--clr:#04fc43">
+            <div class="dot min"></div>
+            <svg>
+                <circle cx="100" cy="100" r="100" id="mi"></circle>
+            </svg>
+        </div>
+
+        <div class="clk" style="--clr:#ff2929">
+            <div class="dot hr"></div>
+            <svg>
+                <circle cx="80" cy="80" r="80" id="ho"></circle>
+            </svg>
+        </div>
+
+        <div class="intime">
+            <div id="inhr" style="--c:#ff2929;">00</div>  
+            <div id="inmin" style="--c:#04fc43;">00</div>  
+            <div id="insec" style="--c:#0095ff;">00</div>
+
+        <div class="aptime" style="--c:white;">
+                <div id="ap"></div>
+            </div>
+        </div>
+
+    </div>
+
+    <script src="script3.js" type="text/javascript">
+    </script>
+
+</body>
+
+</html>
