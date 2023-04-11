@@ -8,14 +8,16 @@
 https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
 ```
 
+
 <h2> 2. Check_Box </h2>
 
 <h3> 🔗 Run in browser and view this project </h3>
 
 ```bash
-https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Check_Box/
+https://yashvi-jasoliya.github.io/
+Fronted-Small-Scale-Projects/
+Check_Box/
 ```
-
 
 
 <br>
@@ -28,6 +30,7 @@ https://yashvi-jasoliya.github.io/
 Fronted-Small-Scale-Projects/
 Clk-Toggle-Mode/
 ```
+
 
 <br>
 <h2> 2. Digital Clock </h2>
