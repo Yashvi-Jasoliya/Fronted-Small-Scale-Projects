@@ -8,8 +8,18 @@
 https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
 ```
 
+<h2> 2. Check_Box </h2>
+
+<h3> 🔗 Run in browser and view this project </h3>
+
+```bash
+https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Check_Box/
+```
+
+
+
 <br>
-<h2> 2. Clock Toggle Mode </h2>
+<h2> 3. Clock Toggle Mode </h2>
 
 <h3> 🔗 Run in browser and view this project </h3>
 
