@@ -15,7 +15,8 @@ https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
 
 ```bash
 https://yashvi-jasoliya.github.io/
-Fronted-Small-Scale-Projects/
+Fronted-Small-Scale-Projects
+/
 Check_Box/
 ```
 
