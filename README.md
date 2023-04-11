@@ -8,7 +8,7 @@
 https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
 ```
 
-
+<br>
 <h2> 2. Check_Box </h2>
 
 <h3> 🔗 Run in browser and view this project </h3>
@@ -33,7 +33,7 @@ Clk-Toggle-Mode/
 
 
 <br>
-<h2> 2. Digital Clock </h2>
+<h2> 4. Digital Clock </h2>
 
 <h3> 🔗 Run in browser and view this project </h3>
 
