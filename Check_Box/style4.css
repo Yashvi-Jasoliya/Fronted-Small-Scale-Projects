@@ -1,0 +1,88 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    background: #333;
+}
+
+.btns {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+    max-width: 211px;
+    gap: 28px;
+    margin: 0 0 70px;
+}
+
+.btns label {
+    position: relative;
+    width: 67px;
+    height: 67px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    cursor: pointer;
+}
+
+.btns label input {
+    appearance: none;
+}
+
+.btns label span {
+    position: absolute;
+    width: 120%;
+    height: 120%;
+    background: linear-gradient(#555353, #363535, #303030);
+    border: 2px solid #222;
+    box-shadow: inset 0 5px 1px rgba(0, 0, 0, 0.35),
+        0 5px 5px rgba(0, 0, 0, 0.5),
+        0 15px 25px rgba(0, 0, 0, 0.35);
+}
+
+.btns label span::before {
+    content: '';
+    position: absolute;
+    inset: 5px 3px;
+    border-top: 1px solid white;
+    filter: blur(2px);
+}
+
+.btns label i {
+    position: relative;
+    z-index: 10;
+    font-size: 1.5em;
+    color: #111;
+}
+
+.btns label input:checked~span {
+    box-shadow: inset 0 2px 2px rgba(0, 0, 0, 0.35),
+        inset 0 5px 5px rgba(0, 0, 0, 0.5),
+        inset 0 15px 25px rgba(0, 0, 0, 0.35);
+
+}
+
+.btns label input:checked~i {
+    color: whitesmoke;
+    text-shadow: 0 0 5px #f3217c,
+        0 0 8px #f3217c;
+        
+}
+
+.back {
+    width: 314px;
+    border: 3px solid #fff7f721;
+    height: 402px;
+    box-shadow: 0 -15px 15px rgba(225, 246, 246, 0.05),
+        inset 0 -15px 15px rgba(255, 246, 246, 0.05),
+        0 15px 15px rgba(0, 0, 0, 0.48),
+        inset 0 15px 15px rgba(0, 0, 0, 0.48);
+    padding: 71px 50px;
+}
