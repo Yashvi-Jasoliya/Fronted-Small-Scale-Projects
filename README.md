@@ -17,7 +17,7 @@ https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
 ```bash
 https://yashvi-jasoliya.github.io/
 Fronted-Small-Scale-Projects/
-Check_Box/
+Check_Box
 ```
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
@@ -29,7 +29,7 @@ Check_Box/
 ```bash
 https://yashvi-jasoliya.github.io/
 Fronted-Small-Scale-Projects/
-Clk-Toggle-Mode/
+Clk-Toggle-Mode
 ```
 <img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
