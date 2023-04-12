@@ -7,8 +7,9 @@
 ```bash
 https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
 ```
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
-<br>
+
 <h2> 2. Check Box </h2>
 
 <h3> 🔗 Run in browser and view this project </h3>
@@ -18,9 +19,9 @@ https://yashvi-jasoliya.github.io/
 Fronted-Small-Scale-Projects/
 Check_Box/
 ```
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<br>
 <h2> 3. Clock Toggle Mode </h2>
 
 <h3> 🔗 Run in browser and view this project </h3>
@@ -30,9 +31,9 @@ https://yashvi-jasoliya.github.io/
 Fronted-Small-Scale-Projects/
 Clk-Toggle-Mode/
 ```
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
 
 
-<br>
 <h2> 4. Digital Clock </h2>
 
 <h3> 🔗 Run in browser and view this project </h3>
