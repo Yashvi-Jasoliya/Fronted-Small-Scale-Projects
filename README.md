@@ -7,7 +7,7 @@
 ```bash
 https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
 ```
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src = "https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
 
 
 <h2> 2. Check Box </h2>
