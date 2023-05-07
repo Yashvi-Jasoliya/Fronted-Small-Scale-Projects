@@ -44,6 +44,18 @@ Fronted-Small-Scale-Projects/
 Digital_Clk/
 ```
 
+<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+
+<h2> 4. Menu Hover </h2>
+
+<h3> 🔗 Run in browser and view this project </h3>
+
+```bash
+https://yashvi-jasoliya.github.io/
+Fronted-Small-Scale-Projects/
+Menu_Hover/
+```
+
 
 
 
