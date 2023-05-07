@@ -2,7 +2,7 @@
 
 <h2> 1. Calculator </h2>
 
-<h3> 🔗 Run in browser and view this project </h3>
+<h3> 👀 Run in browser and view this project </h3>
 
 ```bash
 https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
@@ -12,7 +12,7 @@ https://yashvi-jasoliya.github.io/Fronted-Small-Scale-Projects/Calc/
 
 <h2> 2. Check Box </h2>
 
-<h3> 🔗 Run in browser and view this project </h3>
+<h3> 👀 Run in browser and view this project </h3>
 
 ```bash
 https://yashvi-jasoliya.github.io/
@@ -24,7 +24,7 @@ Check_Box/
 
 <h2> 3. Clock Toggle Mode </h2>
 
-<h3> 🔗 Run in browser and view this project </h3>
+<h3> 👀 Run in browser and view this project </h3>
 
 ```bash
 https://yashvi-jasoliya.github.io/
@@ -36,7 +36,7 @@ Clk-Toggle-Mode/
 
 <h2> 4. Digital Clock </h2>
 
-<h3> 🔗 Run in browser and view this project </h3>
+<h3> 👀 Run in browser and view this project </h3>
 
 ```bash
 https://yashvi-jasoliya.github.io/
@@ -48,7 +48,7 @@ Digital_Clk/
 
 <h2> 5. Menu Hover </h2>
 
-<h3> 🔗 Run in browser and view this project </h3>
+<h3> 👀 Run in browser and view this project </h3>
 
 ```bash
 https://yashvi-jasoliya.github.io/
